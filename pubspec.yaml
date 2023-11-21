@@ -1,0 +1,13 @@
+name: nuban_validator
+description: Validator for NUBAN bank numbers.
+version: 1.0.0
+repository: https://github.com/ivangalkindeveloper/nuban_validator
+
+environment:
+  sdk: ^3.1.5
+
+dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
